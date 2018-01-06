@@ -1,3 +1,16 @@
-﻿<Properties StartupConfiguration="{EDEA5174-D0C7-4C90-BEF4-3B5A4177D0D6}|Default">
+﻿<Properties StartupConfiguration="{1F314835-EC0B-4B6E-8C16-BD5A870AB597}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="Controllers/MoviesController.cs" Line="33" Column="90" />
+      <File FileName="Controllers/HomeController.cs" Line="18" Column="32" />
+      <File FileName="Views/Movies/Random.cshtml" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Vidly PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

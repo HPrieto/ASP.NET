@@ -12,4 +12,10 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Movies\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Views\Movie\Random.html" />
+  </ItemGroup>
 </Project>

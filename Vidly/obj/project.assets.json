@@ -28530,11 +28530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/heri/Documents/NET/Vidly/Vidly.csproj",
+      "projectUniqueName": "/Users/heri/HPrieto/NET/Vidly/Vidly.csproj",
       "projectName": "Vidly",
-      "projectPath": "/Users/heri/Documents/NET/Vidly/Vidly.csproj",
+      "projectPath": "/Users/heri/HPrieto/NET/Vidly/Vidly.csproj",
       "packagesPath": "/Users/heri/.nuget/packages/",
-      "outputPath": "/Users/heri/Documents/NET/Vidly/obj",
+      "outputPath": "/Users/heri/HPrieto/NET/Vidly/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+/Users/heri/HPrieto/NET/Vidly/bin/Debug/netcoreapp2.0/Vidly.deps.json
+/Users/heri/HPrieto/NET/Vidly/bin/Debug/netcoreapp2.0/Vidly.runtimeconfig.json
+/Users/heri/HPrieto/NET/Vidly/bin/Debug/netcoreapp2.0/Vidly.runtimeconfig.dev.json
+/Users/heri/HPrieto/NET/Vidly/bin/Debug/netcoreapp2.0/Vidly.dll
+/Users/heri/HPrieto/NET/Vidly/bin/Debug/netcoreapp2.0/Vidly.pdb
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.csprojResolveAssemblyReference.cache
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.csproj.CoreCompileInputs.cache
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.AssemblyInfoInputs.cache
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.AssemblyInfo.cs
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.dll
+/Users/heri/HPrieto/NET/Vidly/obj/Debug/netcoreapp2.0/Vidly.pdb
