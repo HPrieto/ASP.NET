@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{1F314835-EC0B-4B6E-8C16-BD5A870AB597}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MoviesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_NavBar.cshtml">
     <Files>
-      <File FileName="Controllers/MoviesController.cs" Line="33" Column="90" />
+      <File FileName="Controllers/MoviesController.cs" Line="31" Column="36" />
       <File FileName="Controllers/HomeController.cs" Line="18" Column="32" />
-      <File FileName="Views/Movies/Random.cshtml" Line="5" Column="2" />
+      <File FileName="Views/Movies/Random.cshtml" Line="8" Column="41" />
+      <File FileName="Startup.cs" Line="42" Column="14" />
+      <File FileName="Models/Customer.cs" Line="7" Column="41" />
+      <File FileName="ViewModels/RandomMovieViewModel.cs" Line="11" Column="54" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="27" Column="51" />
+      <File FileName="Views/Shared/_NavBar.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

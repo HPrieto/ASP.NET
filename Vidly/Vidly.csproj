@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <Folder Include="Views\Movies\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\Movie\Random.html" />
